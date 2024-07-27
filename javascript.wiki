@@ -1,0 +1,25 @@
+= =
+
+= Event emitter = 
+
+<h4>mitt</h4>
+
+Tiny 200b functional event emitter / pubsub.
+
+Npm link：[https://www.npmjs.com/package/mitt]
+
+
+
+= Web Security =
+
+== XSS ==
+
+<h4>DOMPurify</h4>
+
+DOMPurify is a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
+
+Npm link：[https://www.npmjs.com/package/dompurify]
+
+If you want to purify the html string on Node.js, you can use isomorphic-dompurify
+
+Npm link: [https://github.com/kkomelin/isomorphic-dompurify]
