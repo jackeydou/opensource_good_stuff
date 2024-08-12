@@ -2,6 +2,10 @@
 
 = Editor =
 
+<h4> @lexical/react </h4>
+
+Npm Link: [https://www.npmjs.com/package/@lexical/react]
+
 <h4> TipTap </h4>
 
 Official docs: [https://tiptap.dev/docs]
