@@ -1,5 +1,17 @@
 = =
 
+= Editor =
+
+<h4> TipTap </h4>
+
+Official docs: [https://tiptap.dev/docs]
+
+== Markdown ==
+
+<h4> React-Markdown </h4>
+
+Npm Link: [https://www.npmjs.com/package/react-markdown]
+
 = Event emitter = 
 
 <h4>mitt</h4>
