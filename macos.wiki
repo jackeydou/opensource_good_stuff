@@ -1,0 +1,43 @@
+
+= =
+
+= Programming =
+
+<h4> mactop </h4>
+
+mactop is a terminal-based monitoring tool "top" designed to display real-time metrics for Apple Silicon chips. It provides a simple and efficient way to monitor CPU and GPU usage, E-Cores and P-Cores, power consumption, and other system metrics directly from your terminal!
+
+Github: [https://github.com/context-labs/mactop]
+
+<h4> Ollama </h4>
+
+Get up and running with large language models.
+
+Github: [https://github.com/ollama/ollama]
+
+<h4> Zed </h4>
+
+Code editor based on Rust programming language.
+
+Github: [https://github.com/zed-industries/zed]
+
+= Productivity =
+
+== PKM ==
+
+<h4>AFFiNE</h4> 
+
+A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion & Miro. One hyper-fused platform for wildly creative minds.
+
+Github: [https://github.com/toeverything/AFFiNE]
+
+== macOS ==
+
+<h4> Dozer </h4>
+
+Hide menu bar icons to give your Mac a cleaner look.
+
+Github: [https://github.com/Mortennn/Dozer]
+
+
+
