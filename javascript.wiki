@@ -47,5 +47,8 @@ Npm link: [https://github.com/kkomelin/isomorphic-dompurify]
 
 Github: [https://github.com/loro-dev/loro]
 
+= Utils = 
 
+<h4> nanoid </h4>
 
+Npm link: [https://www.npmjs.com/package/nanoid]
