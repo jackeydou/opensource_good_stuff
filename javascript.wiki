@@ -52,3 +52,11 @@ Github: [https://github.com/loro-dev/loro]
 <h4> nanoid </h4>
 
 Npm link: [https://www.npmjs.com/package/nanoid]
+
+= Code Highlight = 
+
+<h4>Bright</h4>
+
+Github: [https://github.com/code-hike/bright]
+
+
