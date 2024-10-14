@@ -64,4 +64,4 @@ Github: [https://github.com/code-hike/bright]
 
 <h4>electron-vite</h4>
 
-[Website](https://electron-vite.org/guide/)
+Website: [https://electron-vite.org/guide/]
