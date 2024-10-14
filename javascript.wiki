@@ -60,3 +60,8 @@ Npm link: [https://www.npmjs.com/package/nanoid]
 Github: [https://github.com/code-hike/bright]
 
 
+= Electron =
+
+<h4>electron-vite</h4>
+
+[Website](https://electron-vite.org/guide/)
